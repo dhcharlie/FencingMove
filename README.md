@@ -3,6 +3,7 @@
 
 ## 기본 자세 (En garde)
 
+ fencing
 
 
 ## 기초 스텝
